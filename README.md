@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Hey there 👋, I'm <span style="color:#f75c7e;">Priyabart Kumar</span></h1>
-<h3 align="center">🚀 Tech Explorer |Data Scientist | 🧠 AI Enthusiast| Blockchain Developer</h3>|
+<h3 align="center">🚀 Tech Explorer | Data Scientist | 🧠 AI Enthusiast| Blockchain Developer | AI agent automation </h3>|
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&lines=⚡+Engineer+in+the+Making;🌐+Full-stack+Developer;🤖+AI+%2B+ML+Explorer;🎯+Focused+on+Growth+%26+Impact" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 Pursuing M.Tech at Lovely Professional University  
+🎓 Pursuing B.Tech at Lovely Professional University  
 🌱 Passionate about:
 - 🤖 Artificial Intelligence & Machine Learning  
 - 📊 Data Science, Analytics & Visualizations  
@@ -22,8 +22,8 @@
 🎯 Long-term Vision: Becoming a versatile engineer & a creative problem-solver
 
 💬 Ask me about:
-- 📌 AI, ML, Deep Learning
-- 🛠 Python, Web Dev, GitHub tricks
+- 📌 AI, ML, Deep Learning, LLM
+- 🛠 Java, Dsa, Python, Web Dev, GitHub tricks
 - 📚 Productivity hacks & smart learning
 
 ---
@@ -52,9 +52,9 @@
 ---
 🎧 What’s Playing?
 
-I’m currently listening to TRAVIS SCOTT! 🎶
+Nothing such specific, Depends on mood and vibes.
 
-🎧 [Listen to Travis Scott – TIL FURTHER NOTICE ](https://youtu.be/zptRsa1pqsk?si=WEUnrxLJd-Ml11XC)
+
 
 ## 📫 Let's Connect
 
@@ -70,7 +70,7 @@ I’m currently listening to TRAVIS SCOTT! 🎶
 ---
 <!-- Profile Visitors Counter -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/HARSHVINDER-SINGH/count.svg" alt="Profile Visitors" />
+  <img src="https://profile-counter.glitch.me/Priyabartkumar/count.svg" alt="Profile Visitors" />
 </p>
 
 🎬 Bored? Let's dive into some anime adventures!  
